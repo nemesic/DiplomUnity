@@ -2,6 +2,7 @@
 Diploma thesis on Unity +github
 
 Project: Intuitive Cross-Platform Game Constructor
+
 Description:
 This project is my Bachelor thesis, which focuses on the development of an intuitive cross-platform game constructor designed for creating pixel-based games for single players. The goal of this project was to create an easy-to-use tool that allows both novice and experienced users to design simple games without requiring advanced programming knowledge.
 
