@@ -16,9 +16,13 @@ Game Logic Automation: The constructor automatically manages various game develo
 Testing and Debugging: Built-in features to test and debug the game as it is being created.
 
 Technologies Used:
+
 Languages: C++, C#
+
 Tools: Unity (for game development), GitHub (for version control)
+
 Other: SQL (for database management), various design tools for interface creation
+
 Feel free to explore the project and try the game constructor yourself!
 
 ![image](https://github.com/user-attachments/assets/1bc31cbd-db38-4f20-9f1f-e132c613c948)
